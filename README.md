@@ -1,4 +1,4 @@
-Narasi Proses Analisis Data IPM Indonesia (2022–2024)
+
 Dalam proyek ini, dilakukan analisis terhadap data Indeks Pembangunan Manusia (IPM) berdasarkan provinsi di Indonesia untuk tahun 2022 hingga 2024. Data diambil dari situs resmi Badan Pusat Statistik (BPS) dan dianalisis menggunakan Python dengan memanfaatkan beberapa library dan framework sebagai berikut:
 Framework dan Library yang Digunakan:
 1). Streamlit dalam  #Load data
